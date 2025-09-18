@@ -1,8 +1,6 @@
 # Overview
 
-<div align="center">
-  <img src="docs/images/playwright_logo.png" alt="Playwright Logo" width="480" height="160" style="object-fit: cover; border-radius: 8px;">
-</div>
+![Playwright Logo](docs/images/playwright_logo.png)
 
 This repository is dedicated to learning and exploring Playwright, a powerful end-to-end testing framework developed by Microsoft. Playwright enables developers to automate browser actions, making it easier to test web applications across multiple browsers such as Chromium, Firefox, and WebKit. Playwright is also a vital component to be learnt if we are to build BUA (browser-use agent) as it is one of the core components to allowing agent-browser interaction.
 
